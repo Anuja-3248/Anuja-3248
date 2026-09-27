@@ -21,7 +21,7 @@ Currently learning, building, and contributing through hands-on development.
 ## 🚀 Highlights
 
 * 🎓 **Computer Engineering — 2nd Year**
-* 🧩 **Google Summer of Code (GSoC) 2026 Contributor**
+* 🧩 **GirlScript Summer of Code (GSSoC) 2026 Contributor**
 * 🏛️ **ACM Student Chapter — Management Team**
 * 💻 Currently focusing on **DSA & Software Development**
 * 🔨 Learning by building projects and participating in technical events
